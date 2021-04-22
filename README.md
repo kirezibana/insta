@@ -4,7 +4,7 @@ this web application works as the same as the instagram website the user able to
 
 ## By KIREZI BANA HORTENSE
 ## Description
-Instagram Clone this have dashborad used by admin and by a user,Instagram,Profile and post images , 10 january 2021
+Instagram Clone this have dashborad used by admin and by a user,Instagram,Profile and post images 
 
 every user can post any picture by creating and account and view all picture posted those you follower 
 
